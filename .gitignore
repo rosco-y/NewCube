@@ -9,6 +9,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+[Tt]extMesh Pro/
 
 # ignore unity lockfiles and vim tmp file (*.swp)
 .~lock*
